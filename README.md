@@ -6,4 +6,4 @@
 Some controllers will prebook their online session in various global tools, and some controllers will login to an online session without any previous activities. This file will pull information of both scenarios, and combine them in a convinient overview, where you will be able to select the departure and destination of your flight, considering where the most coverage will be available.
 
 **How to**
-Donwload the latest release, and unzip to a folder at your convinience. No need to put in community folder or similar. It is a stand alone excel fil that pulls data from web, to give ou an overview using standard Excel filters and funtionality.
+Donwload the latest release, and unzip to a folder at your convinience. No need to put in community folder or similar. It is a stand alone excel file that pulls data from web, to give you an overview using standard Excel filters and funtionality.
