@@ -8,4 +8,4 @@ Some controllers will prebook their online session in various global tools givin
 **How to**
 Download the latest release, and unzip to a folder at your convenience. No need to put in community folder or similar. It is a standalone excel file that pulls data from web, to give you an overview using Power Query, filters and other Excel standard functionality.
 
----- A BIG SHOUD OUT TO ALL THE ONLINE CONTROLLERS THAT ARE MAKING OUR USER EXPERIENCE SO MUCH MORE FUN AND REALISTIC ----
+---- A BIG SHOUT OUT TO ALL THE ONLINE CONTROLLERS THAT ARE MAKING OUR USER EXPERIENCE SO MUCH MORE FUN AND REALISTIC ----
