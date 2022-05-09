@@ -1,4 +1,4 @@
-# Online and planned controllers available on Vatsim network
+# Online and scheduled controllers available on Vatsim network
 How to plan your flight to align with online controller availability
  
 When you are planning a flight, and if you prefer online ATC via VATSIM, you can use this tool to do a "best guess" of who is going to be online when you arrive at your destination. The file will also provide a nice overview of which departure airport to select, to have best coverage.
